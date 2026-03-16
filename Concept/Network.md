@@ -48,20 +48,6 @@ flowchart RL
     FTP <--> FTP_P
 ```
 
-HTTP:
-
-HTTPS: 
-
-FTP: 
-
-DNS: 
-
-SSH: 
-
-SMTP: 
-
-POP 3: 
-
 | 프로토콜 | 포트 번호 | 용도 |
 |---------|---------|-----|
 | HTTP | 80 | 웹 |
@@ -188,17 +174,6 @@ flowchart LR
 | 3 Network (네트워크) | IP · ICMP · IGMP | Packet | Internet |
 | 2 Data Link (데이터링크) | Ethernet · PPP · MAC | Frame | Network Access |
 | 1 Physical (물리) | Cable · Hub · Repeater | Bit | Network Access |
-
-
-# HTTP / HTTPS
-## 1. HTTP 개념
-## 2. HTTP의 통신 과정 (요청&응답)
-## 3. HTTP의 요청 및 응답 메시지의 구조
-## 4. 주요 HTTP 메서드 (요청 메시지의 차이점)
-## 4.1. GET
-## 4.2. POST
-## 5. HTTPS의 통신과정
-## 6. HTTP와  HTTPS의 차이점
 
 # Reference
 - CloudFlare.2026.03.13 Accessed."OSI 모댈아런?".cloudflare.(https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/)[https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/]
