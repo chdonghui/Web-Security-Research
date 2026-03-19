@@ -176,6 +176,6 @@ flowchart LR
 | 1 Physical (물리) | Cable · Hub · Repeater | Bit | Network Access |
 
 # Reference
-- CloudFlare.2026.03.13 Accessed."OSI 모델이란?".cloudflare.[https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/](https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- 조남호.2019.07.17 Published."ISO는 '아이소'라고 읽어주세요!".samsung SDS.[https://www.samsungsds.com/kr/insights/1233835_4627.html](https://www.samsungsds.com/kr/insights/1233835_4627.html)
+- CloudFlare.2026.03.13 Accessed."OSI 모델이란?".cloudflare.[URL](https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- 조남호.2019.07.17 Published."ISO는 '아이소'라고 읽어주세요!".samsung SDS.[URL](https://www.samsungsds.com/kr/insights/1233835_4627.html)
 
